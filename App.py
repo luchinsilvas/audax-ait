@@ -59,7 +59,7 @@ st.markdown(
     <style>
     /* Change background color of the selected option */
     div[data-baseweb="select"] > div {
-        background-color: #0050a0;
+        background-color: #e8e7e3;
         border-color: 0050a0;
     }
     </style>
@@ -160,7 +160,7 @@ delta_edad = round((cont_edad - avg_edad) , ndigits=2)
 
 css_c1 = """
 .st-key-container1 {
-    background-color: #0050a0;
+    background-color: #e8e7e3;
     color: #black;
     border-color: #0652cc;
     border-width: 1px;
@@ -519,7 +519,7 @@ st.write("Afinidad, similitud entre los jugadores, usando la distancia euclidian
 
 css_c2 = """
 .st-key-container2 {
-    background-color: #0050a0;
+    background-color: #e8e7e3;
     color: black;
     border-color: #0652cc;
     border-width: 1px;
