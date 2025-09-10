@@ -4,5 +4,4 @@ numpy
 streamlit
 soccerplots.radar_chart
 matplotlib.pyplot
-plotly.express
 datetime
