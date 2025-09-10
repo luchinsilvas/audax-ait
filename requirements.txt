@@ -2,6 +2,6 @@ statsbombpy
 pandas
 numpy
 streamlit
-soccerplots.radar_chart==1.0.0
+soccerplots
 matplotlib.pyplot
 datetime
