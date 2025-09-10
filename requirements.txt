@@ -1,6 +1,6 @@
 pandas
 numpy
-statsbombpy
+sb
 streamlit
 soccerplots.radar_chart
 matplotlib.pyplot
