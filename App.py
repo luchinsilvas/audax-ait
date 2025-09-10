@@ -22,7 +22,8 @@ wide_space_default()
 # TITULOS
 # ------------------------
 st.title("🔎 Análisis de Afinidad - Liga de Primera 2025")
-st.write('Selecciona un jugador para analizar, en qué posición será analizado y un jugador para compararlo')
+st.write('Selecciona un jugador para analizar, en qué posición será analizado y un jugador para compararlo.')
+st.write('Algunos jugadores no poseen player_height registrado, por lo que debe seleccionar otro jugador.')
 st.divider()
 
 # ------------------------
