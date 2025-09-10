@@ -8,7 +8,6 @@ from statsbombpy import sb
 import streamlit as st
 from soccerplots.radar_chart import Radar
 import matplotlib.pyplot as plt
-import plotly.express as px
 from datetime import date
 
 def wide_space_default():
